@@ -1,5 +1,5 @@
 {
-  "name": "csv",
+  "name": "csv-json parser",
   "version": "1.0.0",
   "description": "csv to JSON parser",
   "main": "csv-json.js",
