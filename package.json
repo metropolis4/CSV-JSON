@@ -1,0 +1,22 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "csv to JSON parser",
+  "main": "csv-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metropolis4/CSV-JSON.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Matt Rich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metropolis4/CSV-JSON/issues"
+  },
+  "homepage": "https://github.com/metropolis4/CSV-JSON"
+}
